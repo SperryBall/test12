@@ -22,6 +22,7 @@ For site visitors:</p>
   <li>Access logs are only kept for up to 72 hours. They're only retained this long in case something goes awry with the reports (See below).</li>
   <li>The only "real" info I get in the logs is your user agent string.</li>
   <li>test of git</li>
+  <li>test1333</li>
   <li>If you came to this site via another site, the URL to the site you came from is in the referer section of the log entry.</li>
   <li>Your browsing habits on this site are not disclosed to third parties, unless your user agent is Internet Explorer/2.7 or something equally silly</li>
   <li>Reports of the day's overall traffic are generated daily. These reports only contain how many times each page was visited, how many times each referer was used, and how many times each user agent string was used. These reports are usually kept private, but when they're not, they look like <a href="http://pastebin.com/eE7gen5Z">this</a>.</li>
